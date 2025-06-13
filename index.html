@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="/assets/letter-d.png" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <nav class="sidebar">
+      <div class="sidebar-top-wrapper">
+        <div class="sidebar-top">
+          <a href="#" class="logo_wrapper">
+            <img src="assets/letter-d.png" alt="Logo" class="logo-small" />
+            <span class="hide company-name"> Diogo Amaral </span>
+          </a>
+        </div>
+        <button class="expand-btn" type="button">
+          <i class="fas fa-lg fa-angle-left"></i>
+        </button>
+      </div>
+      <div class="search_wrapper">
+        <input
+          type="text"
+          placeholder="&#128269; Search..."
+          aria-labelledby="search-icon"
+        />
+      </div>
+      <div class="sidebar-links">
+        <ul>
+          <li>
+            <a href="#home" title="Home" class="tooltip">
+              <span class="link hide">Home</span>
+              <span class="tooltip_content">Home</span>
+            </a>
+          </li>
+          <li>
+            <a href="#formacoes" title="Formacoes" class="tooltip">
+              <span class="link hide">Formações</span>
+              <span class="tooltip_content">Formações</span>
+            </a>
+          </li>
+          <li>
+            <a href="#experiencias" title="Experiencias" class="tooltip">
+              <span class="link hide">Experiências</span>
+              <span class="tooltip_content">Experiências</span>
+            </a>
+          </li>
+          <li>
+            <a href="#contato" title="Contato" class="tooltip">
+              <span class="link hide">Contato</span>
+              <span class="tooltip_content">Contato</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="separator"></div>
+      <div class="sidebar-links">
+        <ul>
+          <li>
+            <a href="#settings" title="Settings" class="tooltip">
+              <span class="link hide">Settings</span>
+              <span class="tooltip_content">Settings</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="sidebar_profile">
+        <div class="avatar_weapper">
+          <img class="avatar" src="assets/dg.jpg" alt="Diogo Picture" />
+          <div class="online_status"></div>
+        </div>
+        <div class="avatar_name hide">
+          <div class="user-name">Diogo</div>
+          <div class="email">diogodamunc@gmail.com</div>
+        </div>
+        <a href="logout" class="logout hide"> </a>
+      </div>
+    </nav>
+    <script src="script.js"></script>
+  </body>
+</html>

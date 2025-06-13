@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect style="fill:#140F0B;" width="500" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<g>
+			<path style="fill:#B5711E;" d="M287.851,218.063v-4.682c-0.055-17.653-12.109-32.765-29.313-36.739
+				c-1.179-0.272-2.393-0.492-3.609-0.652c-1.649-0.213-3.31-0.322-4.929-0.322h-37.851v42.395h-26.667V149H250
+				c2.146,0,4.258,0.102,6.279,0.305c15.873,1.531,30.57,8.891,41.375,20.721c10.876,11.908,16.865,27.354,16.865,43.493v4.544
+				H287.851z"/>
+			<path style="fill:#F9B262;" d="M250,303c-35.576,0-64.518-28.942-64.518-64.518v-13.764h26.667v13.764
+				c0,10.109,3.936,19.616,11.082,26.771c7.152,7.144,16.66,11.08,26.768,11.08c1.615,0,3.275-0.108,4.935-0.323
+				c1.203-0.157,2.417-0.376,3.603-0.651c12.607-2.915,22.708-11.958,27.047-23.973h-38.182v-26.667h67.116v13.764
+				c0,16.139-5.989,31.585-16.865,43.493c-10.804,11.83-25.501,19.189-41.384,20.721C254.258,302.897,252.146,303,250,303z"/>
+		</g>
+	</g>
+</g>
+<g id="TEXTS">
+	<g>
+		<g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 156.8054 332.49)" style="fill:#F9B262; font-family:'OpenSans-Semibold'; font-size:22.7655px; letter-spacing:5;">LOGO NAME</text>
+			</g>
+			<g>
+				
+					<text transform="matrix(1 0 0 1 199.7444 347.7715)" style="fill:#F9B262; font-family:'OpenSans-Light'; font-size:12px; letter-spacing:2;">SLOGAN HERE</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
