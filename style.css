@@ -48,6 +48,10 @@ html {
   transition: max-width 0.2s ease-in-out;
 }
 
+body {
+  height: 100%;
+}
+
 body.collapsed .sidebar {
   max-width: 5rem;
   display: flex;
