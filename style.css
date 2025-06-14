@@ -32,9 +32,6 @@ html {
 
 .sidebar {
   position: sticky;
-  top: 0;
-  left: 0;
-  min-height: 50rem;
   height: 100%;
   padding: 1.5rem 1rem;
   border-radius: 1.5rem;
